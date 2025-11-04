@@ -31,11 +31,11 @@ To write a program for mean, variance and cross correlation in SCILAB and verify
 
 ## CALCULATION
 
+![WhatsApp Image 2025-11-04 at 19 03 15_b891bfc0](https://github.com/user-attachments/assets/bed163c4-bd6c-4c03-ae88-f91282024434)
+![WhatsApp Image 2025-11-04 at 19 03 15_27295ffa](https://github.com/user-attachments/assets/0f68bec4-1e81-4dc8-92ae-41f6b9df78c1)
+![WhatsApp Image 2025-11-04 at 19 03 15_f7f25868](https://github.com/user-attachments/assets/d4ba2444-7cff-423b-b73a-a3e7811d6286)
 
 
-![Whats![WhatsApp Image 2025-11-04 at 19 03 15_a29cd6b0](https://github.com/user-attachments/assets/5fe2af67-d11a-4654-9601-eaef9a9f87f9)
-![WhatsApp Image 2025-11-04 at 19 03 15_a29cd6b0](https://github.com/user-attachments/assets/91ab07c9-ca43-44ff-9f79-7da3111611b0)
-![WhatsApp Image 2025-11-04 at 19 03 15_8080a0b6](https://github.com/user-attachments/assets/78d0dfaa-2ef6-4edc-98e4-338d795d9a4d)
 
 
 
